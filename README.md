@@ -3,7 +3,7 @@ gem
 
 ---
 
-*** STORY ***
+** STORY **
 
 In the ancient kingdom of Eldoria, there existed a sword unlike any other. Crafted by the legendary blacksmith, Master Eridan, this sword was not just a weapon of unparalleled craftsmanship, but it possessed a consciousness of its own. Named Ascalon, it was said to be imbued with the soul of a noble warrior who had fallen defending the kingdom centuries ago.
 
